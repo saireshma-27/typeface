@@ -1,8 +1,8 @@
-str1 = input()
-str2=input()
-last_chr=str2[-1]
-count = 0
-for i in str1:
-	if i == last_chr:
-		count = count + 1
-print (count)
+this = input()
+this_nxt=input()
+this_chr=this_nxt[-1]
+c = 0
+for i in this:
+	if i == this_chr:
+		c = c + 1
+print (c)
