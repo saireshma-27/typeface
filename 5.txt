@@ -9,7 +9,4 @@ Adding crawl restrictions.
 Testing your changes.
 Running your crawl.
 Right click the URL, choose Open in a new tab.
-In the new tab, right click the image and Save image as to then give the image a name and choose the destination on your pc to save it to.
-Click and drag to select the text on the Web page you want to extract and press “Ctrl-C” to copy the text. 
-Open a text editor or document program and press “Ctrl-V” to paste the text from the Web page into the text file or document window.
-Save the text file or document to your computer.
+In the new tab, right click the image and Save image as to then give the image a name and choose the destination on your pc to save it.
