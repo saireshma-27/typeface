@@ -1,0 +1,15 @@
+If you are using some programming language or scraping service, what you need to do is to find all "img" tags, iterate over them and extract attr "href" from each found object.
+Then you probably need to normalize URL as sometimes people use relative URI to resource (image in this case). 
+Then when you have URL of image you can retrieve it using standard http request and save response to the filesystem as image file.
+The six steps to crawling a website include:
+Understanding the domain structure.
+Configuring the URL sources.
+Running a test crawl.
+Adding crawl restrictions.
+Testing your changes.
+Running your crawl.
+Right click the URL, choose Open in a new tab.
+In the new tab, right click the image and Save image as to then give the image a name and choose the destination on your pc to save it to.
+Click and drag to select the text on the Web page you want to extract and press “Ctrl-C” to copy the text. 
+Open a text editor or document program and press “Ctrl-V” to paste the text from the Web page into the text file or document window.
+Save the text file or document to your computer.
